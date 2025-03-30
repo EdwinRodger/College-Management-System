@@ -8,7 +8,7 @@ export default function NotFound() {
         <div className="flex min-h-screen items-center justify-center bg-gray-100 dark:bg-gray-900">
             <Card className="w-[400px] text-center shadow-lg">
                 <CardHeader>
-                    <CardTitle className="text-4xl font-bold text-red-600">Work In Progress</CardTitle>
+                    <CardTitle className="text-4xl font-bold text-red-600">Work In Progress/404</CardTitle>
                 </CardHeader>
                 <CardContent>
                     <p className="text-gray-600 dark:text-gray-300 mb-4">
