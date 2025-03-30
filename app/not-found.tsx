@@ -14,9 +14,9 @@ export default function NotFound() {
                     <p className="text-gray-600 dark:text-gray-300 mb-4">
                         Oops! The page you're looking for is in Work In Progress or it doesn't exist.
                     </p>
-                    <Button asChild>
+                    {/* <Button asChild>
                         <Link href="/dashboard/superadmin">Go Back Home</Link>
-                    </Button>
+                    </Button> */}
                 </CardContent>
             </Card>
         </div>
